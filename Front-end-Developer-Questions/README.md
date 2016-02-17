@@ -1,11 +1,11 @@
-#前端开发面试题
+﻿#前端开发面试题
 
 ## <a name='preface'>前言</a> ##
 
 
-[只看问题点这里 ](http://markyun.github.io/2015/Front-end-Developer-Questions/ "Questions")
+[只看问题点这里 ](https://github.com/dayzhang1987/front-end/tree/master/Front-end-Developer-Questions/ "Questions")
 
-[看全部问题和答案点这里](https://github.com/markyun/My-blog/tree/master/Front-end-Developer-Questions/Questions-and-Answers "Questions-and-Answers")
+[看全部问题和答案点这里](https://github.com/dayzhang1987/front-end/tree/master/Front-end-Developer-Questions/Questions-and-Answers "Questions-and-Answers")
 
 本文由我收集总结了一些前端面试题，初学者阅后也要用心钻研其中的原理，重要知识需要系统学习、透彻学习，形成自己的知识链。万不可投机取巧，临时抱佛脚只求面试侥幸混过关是错误的！也是不可能的！不可能的！不可能的！
 
